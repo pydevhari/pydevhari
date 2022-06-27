@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pydevhari
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 📫 You can reach on twitter/instagram @pydevhari...
+- 📫 You can reach on instagram @pydevhari...
 
 <!---
 pydevhari/pydevhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
